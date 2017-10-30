@@ -35,7 +35,7 @@
 }
 
 .jumbotron {
-  background:url('back.JPG');
+  background:url('back.jpg');
   height: 700px;
   background-size: cover;
   margin:0;
@@ -48,7 +48,7 @@
 
 .jumbotron h2 {
   color: #fff;
-  font-size: 30px;  
+  font-size: 30px;
   font-family: 'Shift', serif;
   font-weight: bold;
 }
@@ -118,7 +118,7 @@
 }
 
 .item .pubdate {
-  text-align: right;  
+  text-align: right;
 }
 
 .description {
